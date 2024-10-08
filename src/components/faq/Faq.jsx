@@ -8,7 +8,7 @@ const Faq = () => {
               <span className="mb-2 block text-lg font-semibold text-primary">
                 FAQ
               </span>
-              <h2 className="mb-3 text-3xl font-bold leading-[1.2] text-dark dark:text-white sm:text-4xl md:text-[40px]">
+              <h2 className="mb-3 text-3xl font-bold leading-[1.2] text-dark sm:text-4xl md:text-[40px]">
                 Any Questions? Look Here
               </h2>
               <p className="mx-auto max-w-[485px] text-base text-body-color dark:text-dark-6">
