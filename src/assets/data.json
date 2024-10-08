@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Sunset Villa",
+    "price": 17837.29,
+    "bedroom": 3,
+    "bathroom": 7,
+    "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff"
+  },
+  {
+    "id": 2,
+    "title": "Whispering Pines Villa",
+    "price": 13276.38,
+    "bedroom": 10,
+    "bathroom": 4,
+    "image": "http://dummyimage.com/173x100.png/dddddd/000000"
+  },
+  {
+    "id": 3,
+    "title": "Silver Creek Villa",
+    "price": 14604.22,
+    "bedroom": 3,
+    "bathroom": 9,
+    "image": "http://dummyimage.com/242x100.png/ff4444/ffffff"
+  },
+  {
+    "id": 4,
+    "title": "Mountain View Villa",
+    "price": 19620.07,
+    "bedroom": 7,
+    "bathroom": 8,
+    "image": "http://dummyimage.com/132x100.png/5fa2dd/ffffff"
+  },
+  {
+    "id": 5,
+    "title": "Mountain View Villa",
+    "price": 13053.6,
+    "bedroom": 5,
+    "bathroom": 9,
+    "image": "http://dummyimage.com/128x100.png/5fa2dd/ffffff"
+  },
+  {
+    "id": 6,
+    "title": "Sunset Villa",
+    "price": 13763.81,
+    "bedroom": 3,
+    "bathroom": 8,
+    "image": "http://dummyimage.com/144x100.png/5fa2dd/ffffff"
+  }
+]
